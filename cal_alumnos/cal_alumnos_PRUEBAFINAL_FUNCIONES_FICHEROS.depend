@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1583775545 source:c:\users\mikkypc\desktop\cal_alumnos\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1585560104 source:c:\users\mikky\desktop\codigos c\cal_alumnos\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
