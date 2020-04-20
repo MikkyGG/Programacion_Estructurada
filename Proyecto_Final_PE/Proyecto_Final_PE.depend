@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1587277905 source:c:\users\mikky\desktop\proyecto programacion estructurada\proyecto_final_pe\main.cpp
-	<iostream>
-	<stdlib.h>
-	<fstream>
-	<string>
-	<sstream>
-
